@@ -1,0 +1,14 @@
+[0m[1maws_security_group.ssh_web_access: Refreshing state... [id=sg-07c99b07598c0fc29][0m
+[0m[1maws_instance.django_sonar_spot: Refreshing state... [id=i-0b01d43d6f5e28550][0m
+
+[0m[1m[32mNo changes.[0m[1m Your infrastructure matches the configuration.[0m
+
+[0mTerraform has compared your real infrastructure against your configuration
+and found no differences, so no changes are needed.
+[0m[1m[32m
+Apply complete! Resources: 0 added, 0 changed, 0 destroyed.
+[0m[0m[1m[32m
+Outputs:
+
+[0macceso_instancia = "Accede a la IP 3.255.250.8 usando los siguientes puertos: SSH (22), HTTP (80), HTTPS (443), SonarQube UI (9000)"
+id_instancia = "i-0b01d43d6f5e28550"
